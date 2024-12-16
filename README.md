@@ -40,12 +40,12 @@ Django Boilerplate is a **production-ready** Django project template pre-configu
    cd <project-folder>
    ```
 2. **Set up a virtual environment**
-   For Linux
+   - For Linux
    ```bash
    python3 -m venv venv
    . venv/bin/activate
    ```
-   For Windows
+   - For Windows
    ```bash
    python -m venv venv
    .\venv\Scripts\activate
